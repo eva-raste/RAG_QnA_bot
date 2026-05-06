@@ -1,0 +1,7 @@
+[
+  {
+    "src": "file.py",
+    "dst": "file.py:run",
+    "type": "DEFINES"
+  }
+]

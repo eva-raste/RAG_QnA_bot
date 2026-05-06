@@ -1,0 +1,14 @@
+[
+  {
+    "id": "file.py",
+    "type": "file",
+    "properties": {
+      "name": "file.py"
+    }
+  },
+  {
+    "id": "file.py:run",
+    "type": "function",
+    "properties": {}
+  }
+]

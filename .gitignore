@@ -2,6 +2,7 @@
 .dist/
 .history/
 venv/
+.venv/
 
 vectorstore/
 
